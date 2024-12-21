@@ -5,7 +5,6 @@ function App() {
   return (
     <div>
       
-      <h1>Student Registration</h1>
       <StudentForm />
     </div>
   );
